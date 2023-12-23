@@ -1,4 +1,4 @@
-### Hey there, we are FANTASYSUCHT.NET! 👋
+### Hey there, we are Amuria! 👋
 
 We are a Minecraft network that creates innovative and high-performance software 
 for our Minecraft server. We program in the programming languages of 
